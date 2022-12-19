@@ -1,0 +1,15 @@
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\Task8.csproj.AssemblyReference.cache
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\bin\Debug\net6.0\Task8.exe
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\bin\Debug\net6.0\Task8.deps.json
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\bin\Debug\net6.0\Task8.dll
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\bin\Debug\net6.0\Task8.pdb
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\Task8.dll
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\refint\Task8.dll
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\Task8.pdb
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
+C:\Users\Матвей\Документы\Geek Brains\Знакомство с языками программирования\Seminar 1\HW\Task8\obj\Debug\net6.0\ref\Task8.dll
